@@ -1,1 +1,1 @@
-# web-standars
+# web-standards
